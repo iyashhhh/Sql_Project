@@ -243,7 +243,7 @@ ON
     t1.vehicle_category = t2.vehicle_category
 WHERE 
     t1.fiscal_year = 2023
-    AND t2.fiscal_year = 2024;
+    AND t2.fiscal_year = 2024
 
 
 
